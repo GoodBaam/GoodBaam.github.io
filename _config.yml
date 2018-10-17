@@ -50,8 +50,8 @@ tag_page: '/blog/tags/'
 category_page: '/blog/categories/'
 
 hero:
-  image: https://ratsgo.github.io/public/img/picture.JPG
-  caption: Original Artwork &copy; Pablo Picasso. Girl before a Mirror. Boisgeloup, March 1932. Oil on canvas
+  image: https://goodbaam.github.io/public/img/picture.JPG
+  caption: 없음
 
 # Puglins
 mathjax: true # whether support mathjax
