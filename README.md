@@ -2,6 +2,6 @@
 
 안녕하세요, 
 
-E-mail : @korea.ac.kr
 
-blog : https://.gitgub.io
+
+2018년 8월 18일 :
