@@ -6,19 +6,7 @@ tag: love
 
 
 {
-  "nbformat": 4,
-  "nbformat_minor": 0,
-  "metadata": {
-    "colab": {
-      "name": "Ultrasound Nerve Segmentation 소개.ipynb",
-      "version": "0.3.2",
-      "provenance": []
-    },
-    "kernelspec": {
-      "name": "python3",
-      "display_name": "Python 3"
-    }
-  },
+  
   "cells": [
     {
       "metadata": {
