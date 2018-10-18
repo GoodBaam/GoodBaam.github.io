@@ -1,6 +1,6 @@
 ---
 title: Ultrasound_Nerve_Segmentation_소개
-category: daily
+category: kaggle
 tag: love
 ---
 
